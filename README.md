@@ -3,7 +3,7 @@
 
 A Software Engineer specializing in Javascript technologies. Professional experience whith the technologies listed in the toolbox below.
 
-I create tech content, mostly about Web Development and Javascript but I also like to talk about other topicshan coding.
+I create tech content, mostly about Web Development and Javascript but I also like to talk about other topic than coding.
 
 
 
