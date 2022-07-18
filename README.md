@@ -22,5 +22,5 @@ I create tech content, mostly about Web Development and Javascript but I also li
 
 - 🔭 I’m currently working on my Project n°13 of my studies (OpenclassRoom) 
 - 🌱 I’m currently learning React, NextJS, Redux
-- 📫 How to reach me: jules.lemorvan01gmail.com (Personnal Website is comming !)
+- 📫 How to reach me: jules.lemorvan01gmail.com (Personnal Website https://juleslemorvan.dev/ !)
 - ⚡ Fun fact: I never imagined that the code would be so hard to learn but also so rewarding, don't give up!
