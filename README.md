@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jules Le morvan</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A frontend developer from France</h3>
 
-- 🔭 I’m currently working on [My first MERN project](comming soon)
-
+- 🔭 I’m currently working on [My first MERN project]  (improvement in coming) =====> Take a look at my latest project !!
+ 
 - 🌱 I’m currently learning **Node JS with Express**
 
 - 👨‍💻 All of my projects are available at [https://juleslemorvan.dev](https://juleslemorvan.dev)
